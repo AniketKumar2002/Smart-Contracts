@@ -15,7 +15,6 @@ Before you deploy an NFT, you need an **image and metadata** file.
      ```
 
 2. **Create Metadata (JSON format)**  
-   - Watch Video
 
 3. **Upload Metadata JSON to IPFS**  
    - Upload the `metadata` in iptions.

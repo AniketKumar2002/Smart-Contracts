@@ -1,4 +1,4 @@
-# SmartContracts
+# Smart Contracts
 Smart Contracts for protocol testing and Deployments
 
 ---

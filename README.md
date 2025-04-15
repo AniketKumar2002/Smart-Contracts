@@ -75,6 +75,4 @@ Once deployed:
 ### **You’re Done! 🚀**
 Now, you have successfully **created and deployed an NFT with an image**! 🎉 Let me know if you need further guidance! 🚀
 
-**Follow** : https://x.com/cryptoconsol
-
-**Join** : https://t.me/cryptoconsol
+**Follow** : https://x.com/AniketKumarBar
